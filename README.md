@@ -1,5 +1,3 @@
- 
-
 [TOC]
 
 
@@ -427,7 +425,7 @@ Par exemple:
 >
 > But: Je veux du bon fromage. (use du here because fromage is not in plural form)
 >
-> Le restaurant du coin en a de belles. (belles is plural here)
+>  Le restaurant du coin en a de belles. (belles is plural here)
 >
 > (This case is indefinite article of de, not partitives)
 >
@@ -630,6 +628,129 @@ Example Conjugation 1 -- Regarder
 
 Example Conjugation 2 -- Préférer
 
-|      |
-| ---- |
-|      |
+| Subject   | Conjugation       |
+| --------- | ----------------- |
+| Je        | préférer**ais**   |
+| Tu        | préférer**ais**   |
+| Il/Elle   | Préférer**ait**   |
+| Nous      | préfére**rion**   |
+| Vous      | préfére**riez**   |
+| Ils/Elles | préférer**aient** |
+
+
+
+Irregular:
+
+> vouloir: Je voudrais / Tu voudrais / Il voudrait / Nous voudrions / Vous voudriez /Ils voudraient
+
+> pouvoir: Je pourrais / Tu pourrais / Il pourrait / Nous pourrions / Vous pourriez  / Ils pourraient 
+
+
+
+#### Lexique/Communication
+
+##### Commander au restaurant
+
+Bonjour, vous avez réservé? / avez-vous une réservation?
+
+> J'ai une réservation.
+>
+> J'ai réservé une table deux personnes, **au nom** de Rongrong. 
+>
+> Non, nous n'avons pas de réservation.
+
+
+
+Vous êtes combien?
+
+> Nous sommes deux. 
+
+
+
+Enterrasse ou en salle?
+
+> Nous **aimerions** une table en terrasse. (conditional + conjugation of amier)
+
+
+
+Vous avez choisi? (Passé Composé of choisir: choisi)
+
+> Je vais prendre les escargots ... (I will take blah blah blah)
+>
+> Je voudrais ... (I'd like)
+>
+> Je voudrais un plat et un dessert. 
+>
+> Je voudrais un verre de vin rouge / je voudrais aussi un verre d'eau. 
+>
+
+
+
+Comment boisson? 
+
+> Une verre vin de rouge 
+
+
+
+Comment cuisson? (How well would you like to cook?)
+
+> saignant / bleu: rare 
+
+> bien cuit: well done 
+
+> cru: raw 
+
+
+
+Quel est le plat du jour? (What's special for the day?)
+
+Quel sont les ingredients dans le plat du jour? 
+
+
+
+How did it go?
+
+Ça a été?
+
+Tout se passe bien? 
+
+Tout va bien?
+
+> Oui, tout se passe très bien / tout va bien 
+
+
+
+Je vous apporte de l'eau. (apporte: to bring)
+
+
+
+Could we have more water?
+
+> On pourrai ravoir de l'eau? 
+
+
+
+Je peux payer par carte? En liquide? En chèque?
+
+
+
+Infinitif verb: accepter 
+
+Nous acceptons les chèques déjeuner. 
+
+
+
+Donner son appréciation
+
+> Je me régale. 
+
+régaler (verb in infinitif)
+
+I enjoy
+
+
+
+This is delicious 
+
+> C'est délicieux
+
